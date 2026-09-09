@@ -9,7 +9,7 @@
 
 <br>
 
-[📈 **트레이딩 시작하기**](https://jaeheon0819.github.io/random-trading/)
+[📈 **트레이딩 시작하기**](https://jaeheon777.github.io/random-trading/)
 
 </div>
 
@@ -99,7 +99,7 @@ JavaScript로 생성되는 랜덤한 가격 변동을 기반으로 주식 거래
 
 ## 🚀 Demo
 
-### 👉 [Random Stock Trading Simulator 실행하기](https://jaeheon0819.github.io/random-trading/)
+### 👉 [Random Stock Trading Simulator 실행하기](https://jaeheon777.github.io/random-trading/)
 
 GitHub Pages를 통해 배포되어 있으며,
 별도의 로그인이나 설치 없이 브라우저에서 바로 실행할 수 있습니다.
@@ -111,7 +111,7 @@ GitHub Pages를 통해 배포되어 있으며,
 Repository를 clone합니다.
 
 ```bash
-git clone https://github.com/jaeheon0819/random-trading
+git clone https://github.com/jaeheon777/random-trading
 ```
 
 이후 `index.html`을 브라우저에서 실행하면 됩니다.
