@@ -111,7 +111,7 @@ GitHub Pages를 통해 배포되어 있으며,
 Repository를 clone합니다.
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/jaeheon0819/random-trading
 ```
 
 이후 `index.html`을 브라우저에서 실행하면 됩니다.
