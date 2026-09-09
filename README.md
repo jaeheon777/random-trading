@@ -9,7 +9,7 @@
 
 <br>
 
-[📈 **시뮬레이터 실행하기**](YOUR_GITHUB_PAGES_URL)
+[📈 **시뮬레이터 실행하기**](https://jaeheon0819.github.io/random-trading/)
 
 </div>
 
@@ -81,7 +81,7 @@
 
 ## 🚀 Demo
 
-### 👉 [Random Stock Simulator 실행하기](YOUR_GITHUB_PAGES_URL)
+### 👉 [Random Stock Simulator 실행하기](https://jaeheon0819.github.io/random-trading/)
 
 GitHub Pages를 통해 배포되어 있으며 별도의 설치 없이 실행할 수 있습니다.
 
